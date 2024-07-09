@@ -56,10 +56,6 @@ function Offer() {
             </span>
             <h3 className="text-lg font-semibold"> Community management:</h3>
             <ul className="flex flex-col space-y-2">
-              <li>English for business</li>
-              <li>Foreign languages for beginners</li>
-              <li>German for kids and teenagers</li>
-              <li>Grammar and punctuation course</li>
               <li className="">
                 we hire the community manager and we spread the business in the
                 arab world
