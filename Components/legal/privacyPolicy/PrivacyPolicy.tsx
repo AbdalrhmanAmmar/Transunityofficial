@@ -150,17 +150,16 @@ function PrivacyPolicy() {
           <p className="mt-4">
             <strong>TransUnity</strong>
             <br />
-            [Your Company Address]
             <br />
             Email:{" "}
             <a
-              href="mailto:[Your Email Address]"
+              href="mailto:info@transunityofficial.com"
               className="text-blue-500 underline"
             >
-              [Your Email Address]
+              info@transunityofficial.com
             </a>
             <br />
-            Phone: [Your Phone Number]
+            Phone: +201017404798
           </p>
         </div>
       </div>
