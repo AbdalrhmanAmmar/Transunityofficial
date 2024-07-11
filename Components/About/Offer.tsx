@@ -24,6 +24,8 @@ function Offer() {
             <ul className="flex flex-col space-y-2">
               <li>Advertising translation</li>
               <li>Software and technology translation</li>
+              <li>Financial Translation</li>
+              <li>Literary Translation</li>
             </ul>
           </div>
           <div className="flex flex-col space-y-3 justify-start text-center border-r-2 border-gray-300 dark:border-gray-600 h-full py-16 hover:bg-purple-100 dark:hover:bg-purple-600 transition-colors duration-300">
@@ -54,8 +56,9 @@ function Offer() {
             <span className="flex justify-center text-center">
               <AiOutlineGlobal size={35} />
             </span>
-            <h3 className="text-lg font-semibold"> Community management:</h3>
+            <h3 className="text-lg font-semibold"> Community Services</h3>
             <ul className="flex flex-col space-y-2">
+              <li className="">community management</li>
               <li className="">
                 we hire the community manager and we spread the business in the
                 arab world
