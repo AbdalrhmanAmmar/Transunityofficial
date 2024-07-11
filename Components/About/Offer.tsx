@@ -60,9 +60,10 @@ function Offer() {
             <ul className="flex flex-col space-y-2">
               <li className="">community management</li>
               <li className="">
-                we hire the community manager and we spread the business in the
-                arab world
+                we hire the community manager and <br /> we spread the business
+                in the arab world
               </li>
+              <li className="">Event Coordination and Promotion</li>
             </ul>
           </div>
         </div>
