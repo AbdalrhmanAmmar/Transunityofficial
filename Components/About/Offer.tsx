@@ -20,12 +20,12 @@ function Offer() {
             <span className="flex justify-center text-center">
               <IoDocumentText size={35} />
             </span>
-            <h3 className="text-lg font-semibold">Translation Services</h3>
+            <h3 className="text-lg font-semibold">Transcreation</h3>
             <ul className="flex flex-col space-y-2">
               <li>Advertising translation</li>
+              <li>Literary Translation of novels and poems</li>
               <li>Software and technology translation</li>
-              <li>Financial Translation</li>
-              <li>Literary Translation</li>
+              <li>Financial Document Translation</li>
             </ul>
           </div>
           <div className="flex flex-col space-y-3 justify-start text-center border-r-2 border-gray-300 dark:border-gray-600 h-full py-16 hover:bg-purple-100 dark:hover:bg-purple-600 transition-colors duration-300">
@@ -36,8 +36,8 @@ function Offer() {
             <ul className="flex flex-col space-y-2">
               <li>Interpreting</li>
               <li>Business and conference interpreting</li>
-              <li>Sight and telephone translation</li>
-              <li>Video and audio translation</li>
+              <li>General Interpreting Services</li>
+              <li>Video and Audio Interpreting</li>
             </ul>
           </div>
           <div className="flex flex-col space-y-3 justify-start text-center border-r-2 border-gray-300 dark:border-gray-600 h-full py-16 hover:bg-pink-100 dark:hover:bg-pink-600 transition-colors duration-300">
@@ -47,8 +47,9 @@ function Offer() {
             <h3 className="text-lg font-semibold">Content Services</h3>
             <ul className="flex flex-col space-y-2">
               <li>Transcription</li>
-              <li>Proofreading and quality assessment</li>
               <li>Content summarization and categorization</li>
+              <li>Proofreading and quality assessment</li>
+
               <li>Ads review and sentiment analysis</li>
             </ul>
           </div>
@@ -58,9 +59,9 @@ function Offer() {
             </span>
             <h3 className="text-lg font-semibold"> Community Services</h3>
             <ul className="flex flex-col space-y-2">
-              <li className="">community management</li>
+              <li className="">Community Management</li>
               <li className="">
-                we hire the community manager and <br /> we spread the business
+                hiring the community manager and Spreading <br /> the business
                 in the arab world
               </li>
               <li className="">Event Coordination and Promotion</li>
